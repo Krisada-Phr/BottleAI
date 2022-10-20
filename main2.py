@@ -199,6 +199,7 @@ class Ui_MainWindow(object):
             self.label.setText(_translate("MainWindow", "Congratulations !!!\n"
 "You get the points "))
             print(data_df)
+            print("ขวดพลาสติกนี้ OK แล้วจ้า")
         else:
             _translate = QtCore.QCoreApplication.translate
             self.label.setText(_translate("MainWindow", "กรุณาแกะพลาสติกข้างๆ\nออกด้วย !!!"))

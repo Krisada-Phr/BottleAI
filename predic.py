@@ -1,4 +1,4 @@
-import tensorflow.keras
+import tensorflow
 from PIL import Image, ImageOps
 import numpy as np
 
